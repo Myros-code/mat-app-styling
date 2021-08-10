@@ -1,0 +1,2524 @@
+{
+  "results": [
+    {
+      "file": "Lightweight_Plaster_Brick_single_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid brick wall, dense plaster",
+      "group_2": "102 mm brick",
+      "name": "102 mm brick, plaster",
+      "uValue": 3.1
+    },
+    {
+      "file": "Lightweight_Plaster_Brick_double_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid brick wall, dense plaster",
+      "group_2": "228 mm brick",
+      "name": "228 mm brick, plaster",
+      "uValue": 2.11
+    },
+    {
+      "file": "Lightweight_Plaster_Brick_double_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid brick wall, dense plaster",
+      "group_2": "343 mm brick",
+      "name": "343 mm brick, plaster",
+      "uValue": 1.64
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_externally.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid brick wall, insulated externally",
+      "group_2": "102 mm brick",
+      "name": "19 mm render, 75 mm foam board, 102 mm brick, plaster",
+      "uValue": 0.26
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_externally.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid brick wall, insulated externally",
+      "group_2": "228 mm brick",
+      "name": "19 mm render, 75 mm foam board, 228 mm brick, plaster",
+      "uValue": 0.25
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_externally.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid brick wall, insulated externally",
+      "group_2": "343 mm brick",
+      "name": "19 mm render, 75 mm foam board, 343 mm brick, plaster",
+      "uValue": 0.24
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_internally.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid brick wall, insulated internally",
+      "group_2": "102 mm brick",
+      "name": "102 mm brick, 75 mm foam board, 12.5 mm plasterboard",
+      "uValue": 0.3
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_internally.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid brick wall, insulated internally",
+      "group_2": "228 mm brick",
+      "name": "228 mm brick, 75 mm foam board, 12.5 mm plasterboard",
+      "uValue": 0.29
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_internally.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid brick wall, insulated internally",
+      "group_2": "343 mm brick",
+      "name": "343 mm brick, 75 mm foam board, 12.5 mm plasterboard",
+      "uValue": 0.28
+    },
+    {
+      "file": "Solid_Stone_wall_Unplastered.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid stone wall, unplastered",
+      "group_2": "305 mm stone",
+      "name": "305 mm (12 in.) stone",
+      "uValue": 2.41
+    },
+    {
+      "file": "Solid_Stone_wall_Unplastered.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid stone wall, unplastered",
+      "group_2": "457 mm stone",
+      "name": "457 mm (18 in.) stone",
+      "uValue": 1.89
+    },
+    {
+      "file": "Solid_Stone_wall_Unplastered.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid stone wall, unplastered",
+      "group_2": "610 mm stone",
+      "name": "610 mm (24 in.) stone",
+      "uValue": 1.54
+    },
+    {
+      "file": "Solid_Stone_wall_insulated_internally.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid stone wall, insulated internally",
+      "group_2": "305 mm stone",
+      "name": "305 mm stone, 100 mm mineral wool, plasterboard on battens",
+      "uValue": 0.3
+    },
+    {
+      "file": "Solid_Stone_wall_insulated_internally.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid stone wall, insulated internally",
+      "group_2": "457 mm stone",
+      "name": "457 mm stone, 100 mm mineral wool, plasterboard on battens",
+      "uValue": 0.31
+    },
+    {
+      "file": "Solid_Stone_wall_insulated_internally.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid stone wall, insulated internally",
+      "group_2": "610 mm stone",
+      "name": "610 mm stone, 100 mm mineral wool, plasterboard on battens",
+      "uValue": 0.3
+    },
+    {
+      "file": "Solid_concrete_wall_dense_plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid concrete wall, dense plaster",
+      "group_2": "102 mm concrete",
+      "name": "102 mm concrete, plaster",
+      "uValue": 3.51
+    },
+    {
+      "file": "Solid_concrete_wall_dense_plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid concrete wall, dense plaster",
+      "group_2": "152 mm concrete",
+      "name": "152 mm concrete, plaster",
+      "uValue": 3.12
+    },
+    {
+      "file": "Solid_concrete_wall_dense_plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid concrete wall, dense plaster",
+      "group_2": "204 mm concrete",
+      "name": "204 mm concrete, plaster",
+      "uValue": 2.8
+    },
+    {
+      "file": "Solid_concrete_wall_dense_plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid concrete wall, dense plaster",
+      "group_2": "254 mm concrete",
+      "name": "254 mm concrete, plaster",
+      "uValue": 2.54
+    },
+    {
+      "file": "Solid_concrete_wall_insulated_externally_dense_plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid concrete wall insulated externally, dense plaster",
+      "group_2": "102 mm concrete",
+      "name": "19 mm render, 75 mm foam board, 102 mm concrete, plaster",
+      "uValue": 0.31
+    },
+    {
+      "file": "Solid_concrete_wall_insulated_externally_dense_plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid concrete wall insulated externally, dense plaster",
+      "group_2": "152 mm concrete",
+      "name": "19 mm render, 75 mm foam board, 152 mm concrete, plaster",
+      "uValue": 0.3
+    },
+    {
+      "file": "Solid_concrete_wall_insulated_externally_dense_plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid concrete wall insulated externally, dense plaster",
+      "group_2": "204 mm concrete",
+      "name": "19 mm render, 75 mm foam board, 204 mm concrete, plaster",
+      "uValue": 0.3
+    },
+    {
+      "file": "Solid_concrete_wall_insulated_externally_dense_plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid concrete wall insulated externally, dense plaster",
+      "group_2": "254 mm concrete",
+      "name": "19 mm render, 75 mm foam board, 254 mm concrete, plaster",
+      "uValue": 0.3
+    },
+    {
+      "file": "Cavity_Wall_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster and skim",
+      "group_2": "open cavity",
+      "name": "102 mm brick, 102 mm brick, 13 mm plaster and skim, Open cavity",
+      "uValue": 1.37
+    },
+    {
+      "file": "Cavity_Wall_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster and skim",
+      "group_2": "50mm mineral wool",
+      "name": "102 mm brick, 102 mm brick, 13 mm plaster and skim, Mineral wool slab 50 mm",
+      "uValue": 0.56
+    },
+    {
+      "file": "Cavity_Wall_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster on dabs",
+      "group_2": "open cavity",
+      "name": "102 mm brick, 102 mm brick, 12 mm plaster on dabs, Open cavity",
+      "uValue": 1.21
+    },
+    {
+      "file": "Cavity_Wall_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster on dabs",
+      "group_2": "50mm mineral wool",
+      "name": "102 mm brick, 102 mm brick, 12 mm plaster on dabs, Mineral wool slab 50 mm",
+      "uValue": 0.53
+    },
+    {
+      "file": "Cavity_Wall_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster and skim",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, open cavity, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickniss 100mm",
+      "uValue": 0.87
+    },
+    {
+      "file": "Cavity_Wall_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster and skim",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, open cavity, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickniss 125mm",
+      "uValue": 0.77
+    },
+    {
+      "file": "Cavity_Wall_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster on dab",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, open cavity, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 100mm",
+      "uValue": 0.8
+    },
+    {
+      "file": "Cavity_Wall_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster on dab",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, open cavity, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 125mm",
+      "uValue": 0.72
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, mineral wool slab in cavity 50 mm, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.45
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, mineral wool slab in cavity 50 mm, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.42
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, mineral wool slab in cavity 50 mm, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 100mm",
+      "uValue": 0.43
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, mineral wool slab in cavity 50 mm, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 125mm",
+      "uValue": 0.41
+    },
+    {
+      "file": "Cavity_Wall_bonded_bead_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, 50 mm cavity wall bead insula on, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.39
+    },
+    {
+      "file": "Cavity_Wall_bonded_bead_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, 50 mm cavity wall bead insula on, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.37
+    },
+    {
+      "file": "Cavity_Wall_Ball_beads_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, 50 mm cavity wall bead insula on, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 100mm",
+      "uValue": 0.38
+    },
+    {
+      "file": "Cavity_Wall_Ball_beads_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, 50 mm cavity wall bead insula on, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 125mm",
+      "uValue": 0.36
+    },
+    {
+      "file": "Cavity_Wall_High_Pref-blockinner_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.8
+    },
+    {
+      "file": "Cavity_Wall_High_Pref-blockinner_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.79
+    },
+    {
+      "file": "Cavity_Wall_High_Pref-blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plasterboard on dabs",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, cavity, high-performance aerated block (k = 0.11), 12.5 mm plasterboard on dabs, Inner-leaf thickness 100mm",
+      "uValue": 0.64
+    },
+    {
+      "file": "Cavity_Wall_High_Pref-blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plasterboard on dabs",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, cavity, high-performance aerated block (k = 0.11), 12.5 mm plasterboard on dabs, Inner-leaf thickness 125mm",
+      "uValue": 0.56
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_High_Pref-blockinner_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster and skim",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm, 50 mm mineral wool slab in cavity, high- performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.39
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_High_Pref-blockinner_Lightweight_Plaster_and_skim.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster and skim",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm, 50 mm mineral wool slab in cavity, high- performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.36
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_High_Pref-blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster on dabs",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 12.5 mm plasterboard on dabs, Inner-leaf thickness 100mm",
+      "uValue": 0.38
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_High_Pref-blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster on dabs",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 12.5 mm plasterboard on dabs, Inner-leaf thickness 125mm",
+      "uValue": 0.35
+    },
+    {
+      "file": "Render_Cavity_Wall_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "open cavity",
+      "name": "19 mm render, 102 mm brick, 102 mm brick, 13 mm plaster, Open cavity",
+      "uValue": 1.25
+    },
+    {
+      "file": "Render_Cavity_Wall_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "mineral wool",
+      "name": "19 mm render, 102 mm brick, 102 mm brick, 13 mm plaster, Mineral",
+      "uValue": 0.54
+    },
+    {
+      "file": "Render_Cavity_Wall_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "open cavity",
+      "name": "19 mm render, 102 mm brick, 102 mm brick, 12.5 mm plasterboard on dabs, Open cavity",
+      "uValue": 1.11
+    },
+    {
+      "file": "Render_Cavity_Wall_Lightweight_Plaster_on_dabs.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "mineral wool",
+      "name": "19 mm render, 102 mm brick, 102 mm brick, 12.5 mm plasterboard on dabs, Mineral",
+      "uValue": 0.51
+    },
+    {
+      "file": "Render_Cavity_Wall_blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 102 mm brick, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.82
+    },
+    {
+      "file": "Render_Cavity_Wall_blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 102 mm brick, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.73
+    },
+    {
+      "file": "Render_Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 102.5 mm brick, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.44
+    },
+    {
+      "file": "Render_Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 102.5 mm brick, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.41
+    },
+    {
+      "file": "Render_blockinner_cavity_blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.61
+    },
+    {
+      "file": "Render_blockinner_cavity_blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.56
+    },
+    {
+      "file": "Render_blockinner_miniral_wool_blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity blockwork wall, inner aerated block, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.37
+    },
+    {
+      "file": "Render_blockinner_miniral_wool_blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity blockwork wall, inner aerated block, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.35
+    },
+    {
+      "file": "Render_blockinner_cavity_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, rendered, aerated block inner, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf 100mm",
+      "uValue": 0.51
+    },
+    {
+      "file": "Render_blockinner_cavity_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, rendered, aerated block inner, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf 125mm",
+      "uValue": 0.45
+    },
+    {
+      "file": "Render_blockinner_miniralwool_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, rendered, aerated block inner, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.33
+    },
+    {
+      "file": "Render_blockinner_miniralwool_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, rendered, aerated block inner, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.31
+    },
+    {
+      "file": "Render_ThickHigh_Pref-blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid wall, rendered outside, plaster inside",
+      "group_2": "",
+      "name": "19 mm render, 215 mm high-performance aerated block (k = 0.11), 13 mm plaster",
+      "uValue": 0.44
+    },
+    {
+      "file": "Tiles_block_cavity_block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.58
+    },
+    {
+      "file": "Tiles_block_cavity_block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.53
+    },
+    {
+      "file": "Tiles_block_miniral_wool_block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.36
+    },
+    {
+      "file": "Tiles_block_miniral_wool_block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.34
+    },
+    {
+      "file": "Tiles_block_cavity_High_Pref-block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.49
+    },
+    {
+      "file": "Tiles_block_cavity_High_Pref-block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.44
+    },
+    {
+      "file": "Tiles_block_minral_wool_High_Pref-block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.32
+    },
+    {
+      "file": "Tiles_block_minral_wool_High_Pref-block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.3
+    },
+    {
+      "file": "Tiles_ThickHigh_Pref-blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Solid wall, tiles clad externally",
+      "group_2": "",
+      "name": "Tiles, airspace, 215 mm high-performance aerated block, 13 mm plaster",
+      "uValue": 0.43
+    },
+    {
+      "file": "Shiplap_block_cavity_block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "100mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.56
+    },
+    {
+      "file": "Shiplap_block_cavity_block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "125mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.52
+    },
+    {
+      "file": "Shiplap_block_miniral_wool_block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "100mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.34
+    },
+    {
+      "file": "Shiplap_block_miniral_wool_block_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "125mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.32
+    },
+    {
+      "file": "Shiplap_block_cavity_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "100mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, cavity, high-performance aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.45
+    },
+    {
+      "file": "Shiplap_block_cavity_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "125mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, cavity, high-performance aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.41
+    },
+    {
+      "file": "Shiplap_block_miniral_wool_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "100mm inner leaf",
+      "name": "Shiplap boards, 100 mm airspace, standard aerated block, 50 mm mineral wool slab in cavity, high-performance block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.31
+    },
+    {
+      "file": "Shiplap_block_miniral_wool_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external cavity wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "125mm inner leaf",
+      "name": "Shiplap boards, 100 mm airspace, standard aerated block, 50 mm mineral wool slab in cavity, high-performance block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.29
+    },
+    {
+      "file": "Wall_Cavity_membrane_miniral_wool_stud_Membrane_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "60mm insulation",
+      "name": "102.5 mm brick, cavity, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 60mm",
+      "uValue": 0.43
+    },
+    {
+      "file": "Wall_Cavity_membrane_miniral_wool_stud_Membrane_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "80mm insulation",
+      "name": "102.5 mm brick, cavity, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 80mm",
+      "uValue": 0.36
+    },
+    {
+      "file": "Wall_Cavity_membrane_miniral_wool_stud_Membrane_Lightweight_Plaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "100mm insulation",
+      "name": "102.5 mm brick, cavity, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 100mm",
+      "uValue": 0.32
+    },
+    {
+      "file": "Tiles_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "60mm insulation",
+      "name": "Tiles, airspace, membrane, 10 mm plywood, 100 mm studding with infill insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 60mm",
+      "uValue": 0.47
+    },
+    {
+      "file": "Tiles_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "80mm insulation",
+      "name": "Tiles, airspace, membrane, 10 mm plywood, 100 mm studding with infill insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 80mm",
+      "uValue": 0.38
+    },
+    {
+      "file": "Tiles_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "100mm insulation",
+      "name": "Tiles, airspace, membrane, 10 mm plywood, 100 mm studding with infill insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 100mm",
+      "uValue": 0.34
+    },
+    {
+      "file": "Shiplap_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "60mm insulation",
+      "name": "Shiplap boards, airspace, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 60mm",
+      "uValue": 0.44
+    },
+    {
+      "file": "Shiplap_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "80mm insulation",
+      "name": "Shiplap boards, airspace, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 80mm",
+      "uValue": 0.36
+    },
+    {
+      "file": "Shiplap_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "external wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "100mm insulation",
+      "name": "Shiplap boards, airspace, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 100mm",
+      "uValue": 0.32
+    },
+    {
+      "file": "Lightplaster_miniral_wood_studd_Lightplaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "internal wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "12.5 mm plasterboard, 75 mm studding, 12.5 mm plasterboard",
+      "uValue": 3.52
+    },
+    {
+      "file": "Lightweight_Plaster_Block_Cavity_Block_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "internal wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 100 mm block, cavity, 100 mm block, 13 mm plaster",
+      "uValue": 1.99
+    },
+    {
+      "file": "Lightweight_Plaster_Brick_single_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "internal wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 102.5 mm brick, 13 mm plaster",
+      "uValue": 2.95
+    },
+    {
+      "file": "Lightweight_Plaster_Brick_double_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "internal wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 215 mm brick, 13 mm plaster",
+      "uValue": 1.92
+    },
+    {
+      "file": "Lightweight_Plaster_Breezblock_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "internal wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 100 mm breeze block, 13 mm plaster",
+      "uValue": 1.43
+    },
+    {
+      "file": "Lightweight_Plaster_thickBlock_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "internal wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 100 mm standard aerated block, 13 mm plaster",
+      "uValue": 1.37
+    },
+    {
+      "file": "Lightweight_Plaster_thickBlock_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "internal wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 125 mm standard aerated block, 13 mm plaster",
+      "uValue": 1.15
+    },
+    {
+      "file": "Roof-Chippings_Felt_Plywood_miniral_wood_studd_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "Flat roof, timber construction, insulation and plasterboard",
+      "group_2": "",
+      "name": "Chippings, 3 layers of felt, boarding, air space, insulation, 9.5 mm plasterboard, Insulation thickness 0mm",
+      "uValue": 1.69
+    },
+    {
+      "file": "Roof-Chippings_Felt_Plywood_miniral_wood_studd_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "Flat roof, timber construction, insulation and plasterboard",
+      "group_2": "",
+      "name": "Chippings, 3 layers of felt, boarding, air space, insulation, 9.5 mm plasterboard, Insulation thickness 50mm",
+      "uValue": 0.53
+    },
+    {
+      "file": "Roof-Chippings_Felt_Plywood_miniral_wood_studd_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "Flat roof, timber construction, insulation and plasterboard",
+      "group_2": "",
+      "name": "Chippings, 3 layers of felt, boarding, air space, insulation, 9.5 mm plasterboard, Insulation thickness 100mm",
+      "uValue": 0.32
+    },
+    {
+      "file": "Roof-Chippings_Felt_Plywood_miniral_wood_studd_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "Flat roof, timber construction, insulation and plasterboard",
+      "group_2": "",
+      "name": "Chippings, 3 layers of felt, boarding, air space, insulation, 9.5 mm plasterboard, Insulation thickness 200mm",
+      "uValue": 0.17
+    },
+    {
+      "file": "Roof-Chippings_Felt_Plywood_miniral_wood_studd_Lightplaster.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "Flat roof, timber construction, insulation and plasterboard",
+      "group_2": "",
+      "name": "Chippings, 3 layers of felt, boarding, air space, insulation, 9.5 mm plasterboard, Insulation thickness 300mm",
+      "uValue": 0.12
+    },
+    {
+      "file": "Roof-Tiles_Felt_Cavity_Insulation_between_joists_Plasterboard.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, insulation between joints, sarking felt",
+      "group_2": "no insulation",
+      "name": "Slates or tiles, Sarking felt, ventilated air space, insulation between joists, 9.5 mm plasterboard, insulation thickness 0mm",
+      "uValue": 2.51
+    },
+    {
+      "file": "Roof-Tiles_Felt_Cavity_Insulation_between_joists_Plasterboard.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, insulation between joints, sarking felt",
+      "group_2": "50mm insulation",
+      "name": "Slates or tiles, Sarking felt, ventilated air space, insulation between joists, 9.5 mm plasterboard, insulation thickness 50mm",
+      "uValue": 0.61
+    },
+    {
+      "file": "Roof-Tiles_Felt_Cavity_Insulation_between_joists_Plasterboard.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, insulation between joints, sarking felt",
+      "group_2": "100mm insulation",
+      "name": "Slates or tiles, Sarking felt, ventilated air space, insulation between joists, 9.5 mm plasterboard, insulation thickness 100mm",
+      "uValue": 0.34
+    },
+    {
+      "file": "Roof-Tiles_Felt_Cavity_Insulation_between_joists_Plasterboard.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, insulation between joints, sarking felt",
+      "group_2": "200mm insulation",
+      "name": "Slates or tiles, Sarking felt, ventilated air space, insulation between joists, 9.5 mm plasterboard, insulation thickness 200mm",
+      "uValue": 0.18
+    },
+    {
+      "file": "Roof-Tiles_Felt_Cavity_Insulation_between_joists_Plasterboard.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, insulation between joints, sarking felt",
+      "group_2": "300mm insulation",
+      "name": "Slates or tiles, Sarking felt, ventilated air space, insulation between joists, 9.5 mm plasterboard, insulation thickness 300mm",
+      "uValue": 0.12
+    },
+    {
+      "file": "Roof-Tiles_Insulation_between_joists_Plasterboard.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, insulation between joints",
+      "group_2": "no insulation",
+      "name": "Slates or tiles, ventilated air space, insulation between joists, 9.5 mm plasterboard, Insulation thickness 0mm",
+      "uValue": 3.13
+    },
+    {
+      "file": "Roof-Tiles_Insulation_between_joists_Plasterboard.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, insulation between joints",
+      "group_2": "50mm insulation",
+      "name": "Slates or tiles, ventilated air space, insulation between joists, 9.5 mm plasterboard, Insulation thickness 50mm",
+      "uValue": 0.62
+    },
+    {
+      "file": "Roof-Tiles_Insulation_between_joists_Plasterboard.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, insulation between joints",
+      "group_2": "100mm insulation",
+      "name": "Slates or tiles, ventilated air space, insulation between joists, 9.5 mm plasterboard, Insulation thickness 100mm",
+      "uValue": 0.35
+    },
+    {
+      "file": "Roof-Tiles_Insulation_between_joists_Plasterboard.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, insulation between joints",
+      "group_2": "200mm insulation",
+      "name": "Slates or tiles, ventilated air space, insulation between joists, 9.5 mm plasterboard, Insulation thickness 200mm",
+      "uValue": 0.18
+    },
+    {
+      "file": "Roof-Tiles_Insulation_between_joists_Plasterboard.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, insulation between joints",
+      "group_2": "300mm insulation",
+      "name": "Slates or tiles, ventilated air space, insulation between joists, 9.5 mm plasterboard, Insulation thickness 300mm",
+      "uValue": 0.12
+    },
+    {
+      "file": "Roof-Tiles_Felt_Insulation_between_joists_Plasterboard_slanted.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, airspace, sarking felt",
+      "group_2": "no insulation",
+      "name": "Slates or tiles, Sarking felt, air space, insulation between rafters, 9.5 mm plasterboard, Insulation thickness 0mm",
+      "uValue": 2.51
+    },
+    {
+      "file": "Roof-Tiles_Felt_Insulation_between_joists_Plasterboard_slanted.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, airspace, sarking felt",
+      "group_2": "50mm insulation",
+      "name": "Slates or tiles, Sarking felt, air space, insulation between rafters, 9.5 mm plasterboard, Insulation thickness 50mm",
+      "uValue": 0.61
+    },
+    {
+      "file": "Roof-Tiles_Felt_Insulation_between_joists_Plasterboard_slanted.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, airspace, sarking felt",
+      "group_2": "100mm insulation",
+      "name": "Slates or tiles, Sarking felt, air space, insulation between rafters, 9.5 mm plasterboard, Insulation thickness 100mm",
+      "uValue": 0.34
+    },
+    {
+      "file": "Roof-Tiles_Felt_Insulation_between_joists_Plasterboard_slanted.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, airspace, sarking felt",
+      "group_2": "200mm insulation",
+      "name": "Slates or tiles, Sarking felt, air space, insulation between rafters, 9.5 mm plasterboard, Insulation thickness 200mm",
+      "uValue": 0.18
+    },
+    {
+      "file": "Roof-Tiles_Felt_Insulation_between_joists_Plasterboard_slanted.png",
+      "external": true,
+      "opening": false,
+      "group_0": "roof",
+      "group_1": "30° pitched roof with tiles, airspace, sarking felt",
+      "group_2": "300mm insulation",
+      "name": "Slates or tiles, Sarking felt, air space, insulation between rafters, 9.5 mm plasterboard, Insulation thickness 300mm",
+      "uValue": 0.12
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "single glass",
+      "name": "Single",
+      "uValue": 4.8
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "double glass",
+      "name": "Double",
+      "uValue": 2.8
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "double, low-E glass",
+      "name": "Double, low-E glass",
+      "uValue": 2.3
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "double, low-E glass, argon filled",
+      "name": "Double, low-E glass, argon filled",
+      "uValue": 2.1
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "triple glass",
+      "name": "Triple",
+      "uValue": 2.1
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "triple, low-E glass",
+      "name": "Triple, low-E glass",
+      "uValue": 1.7
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "triple, low-E glass, argon filled",
+      "name": "Triple, low-E glass, argon filled",
+      "uValue": 1.6
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "single glass",
+      "name": "Single",
+      "uValue": 5.7
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "double glass",
+      "name": "Double",
+      "uValue": 3.4
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "double, low-E glass",
+      "name": "Double, low-E glass",
+      "uValue": 2.8
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "double, low-E glass, argon filled",
+      "name": "Double, low-E glass, argon filled",
+      "uValue": 2.6
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "triple glass",
+      "name": "Triple",
+      "uValue": 2.6
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "triple, low-E glass",
+      "name": "Triple, low-E glass",
+      "uValue": 2.1
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "triple, low-E glass, argon filled",
+      "name": "Triple, low-E glass, argon filled",
+      "uValue": 2
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "door",
+      "group_1": "Doors",
+      "group_2": "solid",
+      "name": "Solid wooden door",
+      "uValue": 3
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "door",
+      "group_1": "single glazing door",
+      "group_2": "25% glazing",
+      "name": "Wooden door with 25% single glazing",
+      "uValue": 3.7
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "door",
+      "group_1": "single glazing door",
+      "group_2": "50% glazing",
+      "name": "Wooden door with 50% single glazing",
+      "uValue": 4.4
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "door",
+      "group_1": "double glazing door",
+      "group_2": "25% glazing",
+      "name": "Wooden door with 25% double glazing",
+      "uValue": 2.9
+    },
+    {
+      "file": "",
+      "external": false,
+      "opening": true,
+      "group_0": "door",
+      "group_1": "double glazing door",
+      "group_2": "50% glazing",
+      "name": "Wooden door with 50% double glazing",
+      "uValue": 2.8
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "single glass",
+      "name": "Single",
+      "uValue": 4.8
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "double glass",
+      "name": "Double",
+      "uValue": 2.8
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "double, low-E glass",
+      "name": "Double, low-E glass",
+      "uValue": 2.3
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "double, low-E glass, argon filled",
+      "name": "Double, low-E glass, argon filled",
+      "uValue": 2.1
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "triple glass",
+      "name": "Triple",
+      "uValue": 2.1
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "triple, low-E glass",
+      "name": "Triple, low-E glass",
+      "uValue": 1.7
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with wood or PVC-U frames",
+      "group_2": "triple, low-E glass, argon filled",
+      "name": "Triple, low-E glass, argon filled",
+      "uValue": 1.6
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "single glass",
+      "name": "Single",
+      "uValue": 5.7
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "double glass",
+      "name": "Double",
+      "uValue": 3.4
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "double, low-E glass",
+      "name": "Double, low-E glass",
+      "uValue": 2.8
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "double, low-E glass, argon filled",
+      "name": "Double, low-E glass, argon filled",
+      "uValue": 2.6
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "triple glass",
+      "name": "Triple",
+      "uValue": 2.6
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "triple, low-E glass",
+      "name": "Triple, low-E glass",
+      "uValue": 2.1
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "window",
+      "group_1": "Windows with metal frames",
+      "group_2": "triple, low-E glass, argon filled",
+      "name": "Triple, low-E glass, argon filled",
+      "uValue": 2
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "door",
+      "group_1": "Doors",
+      "group_2": "solid",
+      "name": "Solid wooden door",
+      "uValue": 3
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "door",
+      "group_1": "single glazing door",
+      "group_2": "25% glazing",
+      "name": "Wooden door with 25% single glazing",
+      "uValue": 3.7
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "door",
+      "group_1": "single glazing door",
+      "group_2": "50% glazing",
+      "name": "Wooden door with 50% single glazing",
+      "uValue": 4.4
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "door",
+      "group_1": "double glazing door",
+      "group_2": "25% glazing",
+      "name": "Wooden door with 25% double glazing",
+      "uValue": 2.9
+    },
+    {
+      "file": "",
+      "external": true,
+      "opening": true,
+      "group_0": "door",
+      "group_1": "double glazing door",
+      "group_2": "50% glazing",
+      "name": "Wooden door with 50% double glazing",
+      "uValue": 2.8
+    },
+    {
+      "file": "Lightweight_Plaster_Brick_single_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid brick wall, dense plaster",
+      "group_2": "102 mm brick",
+      "name": "102 mm brick, plaster",
+      "uValue": 3.1
+    },
+    {
+      "file": "Lightweight_Plaster_Brick_double_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid brick wall, dense plaster",
+      "group_2": "228 mm brick",
+      "name": "228 mm brick, plaster",
+      "uValue": 2.11
+    },
+    {
+      "file": "Lightweight_Plaster_Brick_double_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid brick wall, dense plaster",
+      "group_2": "343 mm brick",
+      "name": "343 mm brick, plaster",
+      "uValue": 1.64
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_externally.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid brick wall, insulated externally",
+      "group_2": "102 mm brick",
+      "name": "19 mm render, 75 mm foam board, 102 mm brick, plaster",
+      "uValue": 0.26
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_externally.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid brick wall, insulated externally",
+      "group_2": "228 mm brick",
+      "name": "19 mm render, 75 mm foam board, 228 mm brick, plaster",
+      "uValue": 0.25
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_externally.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid brick wall, insulated externally",
+      "group_2": "343 mm brick",
+      "name": "19 mm render, 75 mm foam board, 343 mm brick, plaster",
+      "uValue": 0.24
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_internally.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid brick wall, insulated internally",
+      "group_2": "102 mm brick",
+      "name": "102 mm brick, 75 mm foam board, 12.5 mm plasterboard",
+      "uValue": 0.3
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_internally.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid brick wall, insulated internally",
+      "group_2": "228 mm brick",
+      "name": "228 mm brick, 75 mm foam board, 12.5 mm plasterboard",
+      "uValue": 0.29
+    },
+    {
+      "file": "Solid_Brick_Wall_insulated_internally.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid brick wall, insulated internally",
+      "group_2": "343 mm brick",
+      "name": "343 mm brick, 75 mm foam board, 12.5 mm plasterboard",
+      "uValue": 0.28
+    },
+    {
+      "file": "Solid_Stone_wall_Unplastered.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid stone wall, unplastered",
+      "group_2": "305 mm stone",
+      "name": "305 mm (12 in.) stone",
+      "uValue": 2.41
+    },
+    {
+      "file": "Solid_Stone_wall_Unplastered.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid stone wall, unplastered",
+      "group_2": "457 mm stone",
+      "name": "457 mm (18 in.) stone",
+      "uValue": 1.89
+    },
+    {
+      "file": "Solid_Stone_wall_Unplastered.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid stone wall, unplastered",
+      "group_2": "610 mm stone",
+      "name": "610 mm (24 in.) stone",
+      "uValue": 1.54
+    },
+    {
+      "file": "Solid_Stone_wall_insulated_internally.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid stone wall, insulated internally",
+      "group_2": "305 mm stone",
+      "name": "305 mm stone, 100 mm mineral wool, plasterboard on battens",
+      "uValue": 0.3
+    },
+    {
+      "file": "Solid_Stone_wall_insulated_internally.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid stone wall, insulated internally",
+      "group_2": "457 mm stone",
+      "name": "457 mm stone, 100 mm mineral wool, plasterboard on battens",
+      "uValue": 0.31
+    },
+    {
+      "file": "Solid_Stone_wall_insulated_internally.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid stone wall, insulated internally",
+      "group_2": "610 mm stone",
+      "name": "610 mm stone, 100 mm mineral wool, plasterboard on battens",
+      "uValue": 0.3
+    },
+    {
+      "file": "Solid_concrete_wall_dense_plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid concrete wall, dense plaster",
+      "group_2": "102 mm concrete",
+      "name": "102 mm concrete, plaster",
+      "uValue": 3.51
+    },
+    {
+      "file": "Solid_concrete_wall_dense_plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid concrete wall, dense plaster",
+      "group_2": "152 mm concrete",
+      "name": "152 mm concrete, plaster",
+      "uValue": 3.12
+    },
+    {
+      "file": "Solid_concrete_wall_dense_plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid concrete wall, dense plaster",
+      "group_2": "204 mm concrete",
+      "name": "204 mm concrete, plaster",
+      "uValue": 2.8
+    },
+    {
+      "file": "Solid_concrete_wall_dense_plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid concrete wall, dense plaster",
+      "group_2": "254 mm concrete",
+      "name": "254 mm concrete, plaster",
+      "uValue": 2.54
+    },
+    {
+      "file": "Solid_concrete_wall_insulated_externally_dense_plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid concrete wall insulated externally, dense plaster",
+      "group_2": "102 mm concrete",
+      "name": "19 mm render, 75 mm foam board, 102 mm concrete, plaster",
+      "uValue": 0.31
+    },
+    {
+      "file": "Solid_concrete_wall_insulated_externally_dense_plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid concrete wall insulated externally, dense plaster",
+      "group_2": "152 mm concrete",
+      "name": "19 mm render, 75 mm foam board, 152 mm concrete, plaster",
+      "uValue": 0.3
+    },
+    {
+      "file": "Solid_concrete_wall_insulated_externally_dense_plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid concrete wall insulated externally, dense plaster",
+      "group_2": "204 mm concrete",
+      "name": "19 mm render, 75 mm foam board, 204 mm concrete, plaster",
+      "uValue": 0.3
+    },
+    {
+      "file": "Solid_concrete_wall_insulated_externally_dense_plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid concrete wall insulated externally, dense plaster",
+      "group_2": "254 mm concrete",
+      "name": "19 mm render, 75 mm foam board, 254 mm concrete, plaster",
+      "uValue": 0.3
+    },
+    {
+      "file": "Cavity_Wall_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster and skim",
+      "group_2": "open cavity",
+      "name": "102 mm brick, 102 mm brick, 13 mm plaster and skim, Open cavity",
+      "uValue": 1.37
+    },
+    {
+      "file": "Cavity_Wall_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster and skim",
+      "group_2": "50mm mineral wool",
+      "name": "102 mm brick, 102 mm brick, 13 mm plaster and skim, Mineral wool slab 50 mm",
+      "uValue": 0.56
+    },
+    {
+      "file": "Cavity_Wall_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster on dabs",
+      "group_2": "open cavity",
+      "name": "102 mm brick, 102 mm brick, 12 mm plaster on dabs, Open cavity",
+      "uValue": 1.21
+    },
+    {
+      "file": "Cavity_Wall_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster on dabs",
+      "group_2": "50mm mineral wool",
+      "name": "102 mm brick, 102 mm brick, 12 mm plaster on dabs, Mineral wool slab 50 mm",
+      "uValue": 0.53
+    },
+    {
+      "file": "Cavity_Wall_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster and skim",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, open cavity, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickniss 100mm",
+      "uValue": 0.87
+    },
+    {
+      "file": "Cavity_Wall_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster and skim",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, open cavity, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickniss 125mm",
+      "uValue": 0.77
+    },
+    {
+      "file": "Cavity_Wall_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster on dab",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, open cavity, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 100mm",
+      "uValue": 0.8
+    },
+    {
+      "file": "Cavity_Wall_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster on dab",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, open cavity, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 125mm",
+      "uValue": 0.72
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, mineral wool slab in cavity 50 mm, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.45
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, mineral wool slab in cavity 50 mm, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.42
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, mineral wool slab in cavity 50 mm, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 100mm",
+      "uValue": 0.43
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, mineral wool slab in cavity 50 mm, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 125mm",
+      "uValue": 0.41
+    },
+    {
+      "file": "Cavity_Wall_bonded_bead_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, 50 mm cavity wall bead insula on, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.39
+    },
+    {
+      "file": "Cavity_Wall_bonded_bead_blockinner_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, 50 mm cavity wall bead insula on, standard aerated block (k = 0.17), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.37
+    },
+    {
+      "file": "Cavity_Wall_Ball_beads_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, 50 mm cavity wall bead insula on, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 100mm",
+      "uValue": 0.38
+    },
+    {
+      "file": "Cavity_Wall_Ball_beads_blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, 50 mm cavity wall bead insula on, standard aerated block (k = 0.17), 12.5 mm plasterboard on dabs, Inner-leaf thickness 125mm",
+      "uValue": 0.36
+    },
+    {
+      "file": "Cavity_Wall_High_Pref-blockinner_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.8
+    },
+    {
+      "file": "Cavity_Wall_High_Pref-blockinner_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.79
+    },
+    {
+      "file": "Cavity_Wall_High_Pref-blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plasterboard on dabs",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, cavity, high-performance aerated block (k = 0.11), 12.5 mm plasterboard on dabs, Inner-leaf thickness 100mm",
+      "uValue": 0.64
+    },
+    {
+      "file": "Cavity_Wall_High_Pref-blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plasterboard on dabs",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, cavity, high-performance aerated block (k = 0.11), 12.5 mm plasterboard on dabs, Inner-leaf thickness 125mm",
+      "uValue": 0.56
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_High_Pref-blockinner_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster and skim",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm, 50 mm mineral wool slab in cavity, high- performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.39
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_High_Pref-blockinner_Lightweight_Plaster_and_skim.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster and skim",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm, 50 mm mineral wool slab in cavity, high- performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.36
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_High_Pref-blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster on dabs",
+      "group_2": "100mm inner leaf",
+      "name": "102 mm brick, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 12.5 mm plasterboard on dabs, Inner-leaf thickness 100mm",
+      "uValue": 0.38
+    },
+    {
+      "file": "Cavity_Wall_miniral_wool_High_Pref-blockinner_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, high-performance aerated block inner leaf, lightweight plaster on dabs",
+      "group_2": "125mm inner leaf",
+      "name": "102 mm brick, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 12.5 mm plasterboard on dabs, Inner-leaf thickness 125mm",
+      "uValue": 0.35
+    },
+    {
+      "file": "Render_Cavity_Wall_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "open cavity",
+      "name": "19 mm render, 102 mm brick, 102 mm brick, 13 mm plaster, Open cavity",
+      "uValue": 1.25
+    },
+    {
+      "file": "Render_Cavity_Wall_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "mineral wool",
+      "name": "19 mm render, 102 mm brick, 102 mm brick, 13 mm plaster, Mineral",
+      "uValue": 0.54
+    },
+    {
+      "file": "Render_Cavity_Wall_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "open cavity",
+      "name": "19 mm render, 102 mm brick, 102 mm brick, 12.5 mm plasterboard on dabs, Open cavity",
+      "uValue": 1.11
+    },
+    {
+      "file": "Render_Cavity_Wall_Lightweight_Plaster_on_dabs.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "mineral wool",
+      "name": "19 mm render, 102 mm brick, 102 mm brick, 12.5 mm plasterboard on dabs, Mineral",
+      "uValue": 0.51
+    },
+    {
+      "file": "Render_Cavity_Wall_blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 102 mm brick, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.82
+    },
+    {
+      "file": "Render_Cavity_Wall_blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 102 mm brick, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.73
+    },
+    {
+      "file": "Render_Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 102.5 mm brick, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.44
+    },
+    {
+      "file": "Render_Cavity_Wall_miniral_wool_blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 102.5 mm brick, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.41
+    },
+    {
+      "file": "Render_blockinner_cavity_blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.61
+    },
+    {
+      "file": "Render_blockinner_cavity_blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, aerated block inner leaf, lightweight plaster or plasterboard",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.56
+    },
+    {
+      "file": "Render_blockinner_miniral_wool_blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity blockwork wall, inner aerated block, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.37
+    },
+    {
+      "file": "Render_blockinner_miniral_wool_blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity blockwork wall, inner aerated block, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.35
+    },
+    {
+      "file": "Render_blockinner_cavity_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, rendered, aerated block inner, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf 100mm",
+      "uValue": 0.51
+    },
+    {
+      "file": "Render_blockinner_cavity_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, rendered, aerated block inner, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf 125mm",
+      "uValue": 0.45
+    },
+    {
+      "file": "Render_blockinner_miniralwool_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, rendered, aerated block inner, lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.33
+    },
+    {
+      "file": "Render_blockinner_miniralwool_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, rendered, aerated block inner, lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "19 mm render, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.31
+    },
+    {
+      "file": "Render_ThickHigh_Pref-blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid wall, rendered outside, plaster inside",
+      "group_2": "",
+      "name": "19 mm render, 215 mm high-performance aerated block (k = 0.11), 13 mm plaster",
+      "uValue": 0.44
+    },
+    {
+      "file": "Tiles_block_cavity_block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.58
+    },
+    {
+      "file": "Tiles_block_cavity_block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.53
+    },
+    {
+      "file": "Tiles_block_miniral_wool_block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.36
+    },
+    {
+      "file": "Tiles_block_miniral_wool_block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.34
+    },
+    {
+      "file": "Tiles_block_cavity_High_Pref-block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.49
+    },
+    {
+      "file": "Tiles_block_cavity_High_Pref-block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.44
+    },
+    {
+      "file": "Tiles_block_minral_wool_High_Pref-block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "100mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.32
+    },
+    {
+      "file": "Tiles_block_minral_wool_High_Pref-block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, tile clad (open cavity or mineral wool slab), lightweight plaster",
+      "group_2": "125mm inner leaf",
+      "name": "Tiles, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, high-performance aerated block (k = 0.11), 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.3
+    },
+    {
+      "file": "Tiles_ThickHigh_Pref-blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Solid wall, tiles clad externally",
+      "group_2": "",
+      "name": "Tiles, airspace, 215 mm high-performance aerated block, 13 mm plaster",
+      "uValue": 0.43
+    },
+    {
+      "file": "Shiplap_block_cavity_block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "100mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.56
+    },
+    {
+      "file": "Shiplap_block_cavity_block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "125mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.52
+    },
+    {
+      "file": "Shiplap_block_miniral_wool_block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "100mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.34
+    },
+    {
+      "file": "Shiplap_block_miniral_wool_block_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "125mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, 50 mm mineral wool slab in cavity, standard aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.32
+    },
+    {
+      "file": "Shiplap_block_cavity_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "100mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, cavity, high-performance aerated block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.45
+    },
+    {
+      "file": "Shiplap_block_cavity_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "125mm inner leaf",
+      "name": "Shiplap boards, airspace, 100 mm standard aerated block, cavity, high-performance aerated block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.41
+    },
+    {
+      "file": "Shiplap_block_miniral_wool_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "100mm inner leaf",
+      "name": "Shiplap boards, 100 mm airspace, standard aerated block, 50 mm mineral wool slab in cavity, high-performance block, 13 mm plaster, Inner-leaf thickness 100mm",
+      "uValue": 0.31
+    },
+    {
+      "file": "Shiplap_block_miniral_wool_High_Pref-blockinner_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Cavity wall, timber clad",
+      "group_2": "125mm inner leaf",
+      "name": "Shiplap boards, 100 mm airspace, standard aerated block, 50 mm mineral wool slab in cavity, high-performance block, 13 mm plaster, Inner-leaf thickness 125mm",
+      "uValue": 0.29
+    },
+    {
+      "file": "Wall_Cavity_membrane_miniral_wool_stud_Membrane_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "60mm insulation",
+      "name": "102.5 mm brick, cavity, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 60mm",
+      "uValue": 0.43
+    },
+    {
+      "file": "Wall_Cavity_membrane_miniral_wool_stud_Membrane_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "80mm insulation",
+      "name": "102.5 mm brick, cavity, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 80mm",
+      "uValue": 0.36
+    },
+    {
+      "file": "Wall_Cavity_membrane_miniral_wool_stud_Membrane_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "100mm insulation",
+      "name": "102.5 mm brick, cavity, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 100mm",
+      "uValue": 0.32
+    },
+    {
+      "file": "Tiles_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "60mm insulation",
+      "name": "Tiles, airspace, membrane, 10 mm plywood, 100 mm studding with infill insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 60mm",
+      "uValue": 0.47
+    },
+    {
+      "file": "Tiles_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "80mm insulation",
+      "name": "Tiles, airspace, membrane, 10 mm plywood, 100 mm studding with infill insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 80mm",
+      "uValue": 0.38
+    },
+    {
+      "file": "Tiles_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "100mm insulation",
+      "name": "Tiles, airspace, membrane, 10 mm plywood, 100 mm studding with infill insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 100mm",
+      "uValue": 0.34
+    },
+    {
+      "file": "Shiplap_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "60mm insulation",
+      "name": "Shiplap boards, airspace, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 60mm",
+      "uValue": 0.44
+    },
+    {
+      "file": "Shiplap_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "80mm insulation",
+      "name": "Shiplap boards, airspace, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 80mm",
+      "uValue": 0.36
+    },
+    {
+      "file": "Shiplap_membrane_Plywood_miniral_wood_studd_membrane_Lightplaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Brick outer timber frame wall, damp-proof membrane, Insulation thickness plywood sheathing, studding, vapour membrane, plasterboard",
+      "group_2": "100mm insulation",
+      "name": "Shiplap boards, airspace, membrane, 10mm plywood, 100 mm studding with infi ll insula on, vapour membrane, 12.5 mm plasterboard, Insulation thickness 100mm",
+      "uValue": 0.32
+    },
+    {
+      "file": "Lightplaster_miniral_wood_studd_Lightplaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "12.5 mm plasterboard, 75 mm studding, 12.5 mm plasterboard",
+      "uValue": 3.52
+    },
+    {
+      "file": "Lightweight_Plaster_Block_Cavity_Block_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 100 mm block, cavity, 100 mm block, 13 mm plaster",
+      "uValue": 1.99
+    },
+    {
+      "file": "Lightweight_Plaster_Brick_single_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 102.5 mm brick, 13 mm plaster",
+      "uValue": 2.95
+    },
+    {
+      "file": "Lightweight_Plaster_Brick_double_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 215 mm brick, 13 mm plaster",
+      "uValue": 1.92
+    },
+    {
+      "file": "Lightweight_Plaster_Breezblock_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 100 mm breeze block, 13 mm plaster",
+      "uValue": 1.43
+    },
+    {
+      "file": "Lightweight_Plaster_thickBlock_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 100 mm standard aerated block, 13 mm plaster",
+      "uValue": 1.37
+    },
+    {
+      "file": "Lightweight_Plaster_thickBlock_Lightweight_Plaster.png",
+      "external": false,
+      "opening": false,
+      "group_0": "party wall",
+      "group_1": "Internal walls – no insulation",
+      "group_2": "",
+      "name": "13 mm plaster, 125 mm standard aerated block, 13 mm plaster",
+      "uValue": 1.15
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "homepage": "https://myros-code.github.io/mat-app-online-1",
+  "name": "mat-app-2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@react-pdf/renderer": "^2.0.16",
+    "@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^4.6.0",
+    "chart.js": "^2.7.2",
+    "chartjs-plugin-datalabels": "^0.3.0",
+    "file-saver": "^2.0.5",
+    "formik": "^2.2.9",
+    "gh-pages": "^3.2.2",
+    "konva": "^8.1.1",
+    "material-table": "^1.69.3",
+    "prop-types": "^15.7.2",
+    "quickchart-js": "^1.2.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.0",
+    "react-chartjs-2": "^2.7.2",
+    "react-dom": "^17.0.2",
+    "react-konva": "^17.0.2-5",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.0",
+    "uuid": "^8.3.2",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

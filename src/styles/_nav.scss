@@ -1,0 +1,8 @@
+.nav {
+  background-color: #002171;
+  &_room {
+    justify-content: space-between;
+    padding: 12px 20px !important;
+    border-radius: 5px;
+  }
+}

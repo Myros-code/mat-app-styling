@@ -1,0 +1,95 @@
+.card {
+  &_info {
+    &__header {
+      text-align: center;
+      font-weight: $important-weight;
+      font-size: 25px;
+      background-color: $primary-color !important;
+      color: $primary-font-color;
+    }
+    &__body {
+      border: 2px solid $primary-color;
+    }
+  }
+  &_item {
+    box-shadow: 0px 5px 10px 7px rgba(0, 0, 0, 0.17);
+    &__header {
+      background-color: $primary-color_light !important;
+    }
+    &__name {
+      font-size: 20px;
+      font-weight: 700;
+      color: $primary-font-color;
+      // @media screen and (max-width: 900px) {
+      //   width: 100%;
+      //   margin-right: 0;
+      //   margin-bottom: 15px;
+      //   text-align: center;
+      //   order: 1;
+      // }
+      // @media screen and (max-width: 390px) {
+      //   width: auto;
+      // }
+    }
+    &__event-btns {
+      @media screen and (max-width: 1680px) {
+        width: 100%;
+        display: flex;
+        align-items: stretch;
+        justify-content: space-between;
+      }
+      &_ended {
+        @media screen and (max-width: 1680px) {
+          width: auto;
+          display: block;
+        }
+      }
+      // @media screen and (max-width: 390px) {
+      //   order: 3;
+      //   display: flex;
+      //   width: 100%;
+      //   justify-content: space-between;
+      // }
+    }
+    &__button_delete {
+      @media screen and (max-width: 1680px) {
+        margin-top: 15px;
+      }
+      @media screen and (max-width: 1200px) {
+        margin-top: 30px;
+        width: 100%;
+      }
+      &_ended {
+        margin-top: 0;
+        @media screen and (max-width: 1680px) {
+          margin-top: 0;
+        }
+        @media screen and (max-width: 1200px) {
+          margin-top: 0;
+          width: auto;
+        }
+      }
+      // @media screen and (max-width: 900px) {
+      //   order: 3;
+      // }
+      // @media screen and (max-width: 390px) {
+      //   order: 2;
+      //   margin-bottom: 15px;
+      // }
+    }
+    &__body {
+      border: 3px solid #6273bd;
+    }
+  }
+  &__header {
+  }
+  &__body {
+    padding: 0 !important;
+  }
+  &__label {
+    font-weight: $secondary-weight;
+    font-size: 17px;
+  }
+  &__value {
+  }
+}

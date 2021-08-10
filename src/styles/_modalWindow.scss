@@ -1,0 +1,21 @@
+.modal-window {
+  &_project,
+  &_wall,
+  &_wall-item {
+    margin-top: 50px;
+    padding-bottom: 50px;
+  }
+  &_room &_wall {
+    margin-top: 30px;
+    padding-bottom: 50px;
+  }
+  &_wall {
+  }
+  &_wall-item {
+    margin-bottom: 100px;
+  }
+  &__dropdown-menu{
+    overflow-y: auto;
+    max-height: 300px;
+  }
+}
